@@ -29,3 +29,7 @@ Achieved:
   Created a version of Conway's Game of Life that generates the board using classical and quantum computing
 
   Learned the math behind and how to use basic quantum gates: H, X, Z, CNOT, Ry, etc.
+
+Video Link:
+
+https://youtu.be/BCmhTOcN52A
