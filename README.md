@@ -1,10 +1,10 @@
 # Quantum-Game-Of-Life
-# Albin Shrestha
-# Oct 24 2021
-# An implementaion of Conaway's Game of Life using randomness created using quantum
-# Inspired by:
-# https://beltoforion.de/en/recreational_mathematics/game_of_life.php
-# https://github.com/qonwaygameoflife/qonwaygameoflife # Only in concept
+Albin Shrestha
+Oct 24 2021
+An implementaion of Conaway's Game of Life using randomness created using quantum
+Inspired by:
+https://beltoforion.de/en/recreational_mathematics/game_of_life.php
+https://github.com/qonwaygameoflife/qonwaygameoflife # Only in concept
 
 Goals:
 
