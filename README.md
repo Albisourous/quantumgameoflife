@@ -21,11 +21,11 @@ Goals:
 
   Generate live cells that are clustered to create interesting effects
 
-  Upgrade generating code so that it generates well known figures with a higher-likelyhood
+  Upgrade generating code so that it generates well known figures with a higher-likelihood
 
  
 Achieved:
 
   Created a version of Conway's Game of Life that generates the board using classical and quantum computing
-  
+
   Learned the math behind and how to use basic quantum gates: H, X, Z, CNOT, Ry, etc.
