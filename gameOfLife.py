@@ -1,3 +1,10 @@
+# Albin Shrestha
+# Oct 24 2021
+# An implementaion of Conaway's Game of Life using randomness created using quantum
+# Inspired by:
+# https://beltoforion.de/en/recreational_mathematics/game_of_life.php
+# https://github.com/qonwaygameoflife/qonwaygameoflife # Only in concept
+
 import pygame
 import numpy as np
 from qiskit import *
@@ -78,6 +85,8 @@ def generate_quantum(grid_size):
 
 
 def game(grid_size, pixel_size, live_cells, pause_time_on_spawn):
+    pygame.init()
+    pygame.display.set_caption('Quantum Game of Life')
     grid = pygame.display.set_mode(
         (grid_size * pixel_size,
          grid_size * pixel_size))
