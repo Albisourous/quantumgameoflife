@@ -1,35 +1,31 @@
+<img src="https://github.com/Albisourous/projectprivacy/blob/master/lock.png" alt="lock" width="250"/>
+
 # Quantum-Game-Of-Life
-Albin Shrestha
 
-Oct 24 2021
+A demo for the game of life using quantum mechanics for the Qiskit 2021 Hackathon
 
-An implementaion of Conaway's Game of Life using randomness created using quantum
+## Goals
 
-Inspired by:
+Learn about quantum logic gates
 
-https://beltoforion.de/en/recreational_mathematics/game_of_life.php
+Learn how to use Qiskit, pygame, and StrangeWorks
 
-https://github.com/qonwaygameoflife/qonwaygameoflife # Only in concept
+Create a simulator for Conway's Game of Life with elements of pseudo-randomness created using quantum algorithms
 
-Goals:
+Generate live cells that are clustered to create interesting effects
 
-  Learn about quantum logic gates
+Upgrade generating code so that it generates well known figures with a higher-likelihood
 
-  Learn how to use Qiskit, pygame, and StrangeWorks
+## Achieved
 
-  Create a simulator for Conway's Game of Life with elements of pseudo-randomness created using quantum algorithms
+Created a version of Conway's Game of Life that generates the board using classical and quantum computing
 
-  Generate live cells that are clustered to create interesting effects
+Learned the math behind and how to use basic quantum gates: H, X, Z, CNOT, Ry, etc.
 
-  Upgrade generating code so that it generates well known figures with a higher-likelihood
+## Demo
 
- 
-Achieved:
+[![Demo video](https://img.youtube.com/vi/BCmhTOcN52A/1.jpg)](https://youtu.be/BCmhTOcN52A "Quantum-Game-Of-Life Demo")
 
-  Created a version of Conway's Game of Life that generates the board using classical and quantum computing
+## Contributing
 
-  Learned the math behind and how to use basic quantum gates: H, X, Z, CNOT, Ry, etc.
-
-Video Link:
-
-https://youtu.be/BCmhTOcN52A
+Please contact me on LinkedIn to collaborate: https://www.linkedin.com/in/albin-shrestha/
