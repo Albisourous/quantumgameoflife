@@ -24,7 +24,7 @@ Learned the math behind and how to use basic quantum gates: H, X, Z, CNOT, Ry, e
 
 ## Demo
 
-[![Demo video](https://img.youtube.com/vi/BCmhTOcN52A/1.jpg)](https://youtu.be/BCmhTOcN52A "Quantum-Game-Of-Life Demo")
+[![Demo video](https://img.youtube.com/vi/BCmhTOcN52A/0.jpg)](https://youtu.be/BCmhTOcN52A "Quantum-Game-Of-Life Demo")
 
 ## Contributing
 
