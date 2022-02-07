@@ -1,4 +1,4 @@
-<img src="https://github.com/Albisourous/projectprivacy/blob/master/lock.png" alt="lock" width="250"/>
+<img src="https://github.com/Albisourous/quantumgameoflife/blob/main/generated.png" alt="lock" width="250"/>
 
 # Quantum-Game-Of-Life
 
