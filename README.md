@@ -22,7 +22,7 @@ Created a version of Conway's Game of Life that generates the board using classi
 
 Learned the math behind and how to use basic quantum gates: H, X, Z, CNOT, Ry, etc.
 
-## Demo
+## Explanation
 
 [![Demo video](https://img.youtube.com/vi/BCmhTOcN52A/0.jpg)](https://youtu.be/BCmhTOcN52A "Quantum-Game-Of-Life Demo")
 
